@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.1 · 2026-11-02
+
+- Buy rules reload without stopping the watcher.
+- Fair-value rows keep their sort after a refresh.
+- Faster polling on slow connections.
+- Fixed the log panel scroll on long runs.
+
+
 All notable changes to this project are documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
